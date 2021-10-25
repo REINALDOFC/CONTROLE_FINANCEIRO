@@ -1,0 +1,9 @@
+C:\Users\reinaldo\Desktop\ControleFinanceiro\ControleFinanceiroAPI\ControleFinenceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.deps.json
+C:\Users\reinaldo\Desktop\ControleFinanceiro\ControleFinanceiroAPI\ControleFinenceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\reinaldo\Desktop\ControleFinanceiro\ControleFinanceiroAPI\ControleFinenceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfoInputs.cache
+C:\Users\reinaldo\Desktop\ControleFinanceiro\ControleFinanceiroAPI\ControleFinenceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfo.cs
+C:\Users\reinaldo\Desktop\ControleFinanceiro\ControleFinanceiroAPI\ControleFinenceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+C:\Users\reinaldo\Desktop\ControleFinanceiro\ControleFinanceiroAPI\ControleFinenceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\reinaldo\Desktop\ControleFinanceiro\ControleFinanceiroAPI\ControleFinenceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+C:\Users\reinaldo\Desktop\ControleFinanceiro\ControleFinanceiroAPI\ControleFinenceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.csprojAssemblyReference.cache
+C:\Users\reinaldo\Desktop\ControleFinanceiro\ControleFinanceiroAPI\ControleFinenceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.csproj.CoreCompileInputs.cache
